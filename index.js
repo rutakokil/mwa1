@@ -1,0 +1,1 @@
+console.log('hello in mwa1 js');
